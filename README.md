@@ -1,12 +1,5 @@
 - 👋 Hi, I’m Kakoma Kalwiji
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning python, java script and Web development
+- 🌱 I’m a web and software developer
 - 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Kalwiji00/Kalwiji00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Reach out on facebook 📫 https://www.facebook.com/profile.php?id=100078105373487 or +260777833070 on my number
